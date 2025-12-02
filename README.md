@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💥 Flash Linear Attentionn Dev
+# 💥 Flash Linear Attentionn
 
 [![hf_model](https://img.shields.io/badge/-Models-gray.svg?logo=huggingface&style=flat-square)](https://huggingface.co/fla-hub)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/vDaJTmKNcS)
 
